@@ -1,5 +1,4 @@
 from operator import add
-from tkinter.tix import Tree
 from django.db import models
 
 class Post(models.Model):
