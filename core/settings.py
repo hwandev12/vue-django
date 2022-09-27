@@ -23,7 +23,7 @@ SECRET_KEY = 'django-insecure-9@q_kl)5ddecp@cf7$(dt876jk3d&vm+862b29x8j58^r**52e
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'django-vue-app-todo.herokuapp.com']
 
 
 # Application definition
